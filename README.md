@@ -1,0 +1,2 @@
+This is a design for a mobile app that finds foodtrucks near your location . yOu can rate the food truck, pay with the app before you ever even get to the food truck.
+Check your previous orders and order the same thing with a simple press on the "order again " button.
